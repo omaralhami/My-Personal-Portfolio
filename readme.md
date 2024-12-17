@@ -4,8 +4,6 @@ Welcome to my portfolio! This website showcases my work as a Software Engineer. 
 
 ## Preview
 ![Portfolio Preview](preview/image.png)
-
-## Live View
 You can view the live version of my portfolio at: [https://omaralhami.netlify.app/](https://omaralhami.netlify.app/)
 
 ## Features
