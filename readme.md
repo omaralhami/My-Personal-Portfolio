@@ -4,7 +4,7 @@ Welcome to my portfolio! This website showcases my work as a Software Engineer. 
 
 ## Preview
 ![Portfolio Preview](preview/image.png)
-You can view the live version of my portfolio at: [https://omaralhami.netlify.app/](https://omaralhami.netlify.app/)
+You can view the live version of my portfolio [here](https://omaralhami.netlify.app/)
 
 ## Features
 - **Custom Cursor**: An interactive cursor that enhances user experience.
