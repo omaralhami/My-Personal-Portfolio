@@ -1,6 +1,5 @@
 # Omar Alhami's Portfolio
 
-## Description
 Welcome to my portfolio! This website showcases my work as a Software Engineer. Here, you can find various projects that highlight my skills and creativity.
 
 ## Preview
