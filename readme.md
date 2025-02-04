@@ -1,43 +1,43 @@
-# Omar Alhami's Portfolio
+# 🚀 Omar Alhami's Portfolio
 
-Welcome to my portfolio! This website showcases my work as a Software Engineer. Here, you can find various projects that highlight my skills and creativity.
+> Showcasing software engineering projects with creativity and passion
 
-## Preview
 ![Portfolio Preview](preview/image.png)
-You can view the live version of my portfolio [here](https://omaralhami.netlify.app/)
 
-## Features
-- **Custom Cursor**: An interactive cursor that enhances user experience.
-- **Responsive Design**: Optimized for all devices, ensuring usability on desktops, tablets, and mobile phones.
-- **Smooth Animations**: Engaging animations for a modern look and feel.
-- **Project Showcase**: Detailed descriptions of projects with links to live demos and source code.
+[View Live Portfolio](https://omaralhami.netlify.app/)
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- Font Awesome for icons
+## 🌟 Features
 
-## Installation Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/OmarAlhami/your-repo-name.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd your-repo-name
-   ```
-3. Open `index.html` in your browser to view the portfolio.
+- **Custom Cursor**: Interactive user experience
+- **Responsive Design**: Optimized for all devices
+- **Smooth Animations**: Modern, engaging interface
+- **Project Showcase**: Detailed project descriptions
 
-## Usage
-Feel free to explore my projects and contact me for any inquiries or collaborations!
+## 💻 Technologies
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## Contact
-- GitHub: [OmarAlhami](https://github.com/OmarAlhami)
-- Email: omar.alhami@outlook.com
+## 🚀 Quick Start
 
----
-Thank you for visiting my portfolio!
+```bash
+# Clone repository
+git clone https://github.com/OmarAlhami/portfolio.git
+
+# Open project
+open index.html
+```
+
+## 📄 License
+
+This project is licensed under the MIT License
+
+<div align="center">
+   
+**Made with ❤️ by Omar**
+> Built with curiosity, caffeine, and late nights. If you like it, let's connect!
+
+[GitHub](https://github.com/OmarAlhami) • [Email](mailto:omar.alhami@outlook.com)
+
+</div>
