@@ -1,4 +1,4 @@
-# 🚀 Omar Alhami's Portfolio
+# 🚀 My Professional Portfolio
 
 > Showcasing software engineering projects with creativity and passion
 
