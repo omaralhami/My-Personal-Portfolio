@@ -35,9 +35,10 @@ This project is licensed under the MIT License
 
 <div align="center">
    
-**Made with ❤️ by Omar Alhami (Mar)**
-> Built with curiosity, caffeine, and late nights. If you like it, let's connect!
+<div align="center">
 
-[Discord](https://discord.gg/xywrsneY8b) • [Instagram](https://www.instagram.com/16.72/) • [Buy me a coffee](https://buymeacoffee.com/onlymar)
+Made with ❤️ by mar  
+> Built with curiosity, caffeine, and late nights.  
+Join the [Mar Terminal community](https://discord.gg/marx)
 
 </div>
